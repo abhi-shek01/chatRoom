@@ -1,0 +1,11 @@
+.home{
+    position: relative;
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+    left:250px;
+    background: #1e1e1e;
+}
+.home__content{
+
+}
